@@ -1,3 +1,7 @@
+# Folders and files ignore
+
+secret.md
+
 # Logs
 logs
 *.log
